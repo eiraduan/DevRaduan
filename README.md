@@ -24,8 +24,8 @@ Feel free to explore my repositories and connect with me!
 
 ---
 
-![Raduan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRaduan&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevRaduan&layout=compact&theme=radical)
+![Raduan's GitHub stats](https://github-readme-stats.vercel.app/api?username=eiraduan&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eiraduan&layout=compact&theme=radical)
 
 ## Technologies
 
